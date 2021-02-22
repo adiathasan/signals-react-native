@@ -9,4 +9,4 @@ export const baseStyles = StyleSheet.create({
 	},
 });
 
-export const primaryColor = '#073081';
+export const primaryColor = '#037ea3';
